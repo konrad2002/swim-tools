@@ -33,6 +33,10 @@ github.com/konrad2002/dsvparser v1.3.1 h1:ugheskJiIQDK7tqOg4k4VZ27wpQt92Af7c0Mwq
 github.com/konrad2002/dsvparser v1.3.1/go.mod h1:B0vaMamCG8FW3v38lmqt9g3vFwHd+iEqN/V6MmUnrX4=
 github.com/konrad2002/lenexparser v0.2.2 h1:tNpkFwgMYqUnhFX5Ynd4WGzRXXIMNocq1aVRj4neADA=
 github.com/konrad2002/lenexparser v0.2.2/go.mod h1:V+RhwytdvIfRqj5bPU8W0V79FabAveqUe9HLcXgSg4M=
+github.com/konrad2002/lenexparser v0.3.0 h1:5ivT1svxPg9Pig6wOByEwENEf9IK51lHc2OIEON9XQs=
+github.com/konrad2002/lenexparser v0.3.0/go.mod h1:V+RhwytdvIfRqj5bPU8W0V79FabAveqUe9HLcXgSg4M=
+github.com/konrad2002/lenexparser v1.0.0 h1:OxLRr1AyK6DGas9cX+OZjMPi4zia33s66U5K87jVVT0=
+github.com/konrad2002/lenexparser v1.0.0/go.mod h1:V+RhwytdvIfRqj5bPU8W0V79FabAveqUe9HLcXgSg4M=
 github.com/leodido/go-urn v1.4.0 h1:WT9HwE9SGECu3lg4d/dIA+jxlljEa1/ffXKmRjqdmIQ=
 github.com/leodido/go-urn v1.4.0/go.mod h1:bvxc+MVxLKB4z00jd1z+Dvzr47oO32F/QSNjSBOlFxI=
 github.com/mattn/go-isatty v0.0.20 h1:xfD0iDuEKnDkl03q4limB+vH+GxLEtL/jb4xVJSWWEY=
